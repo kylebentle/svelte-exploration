@@ -2,7 +2,10 @@
 
 ---
 
-# svelte app
+#About this project
+This is a playground to explore what Svelte has to offer as the Chicago Tribune data viz staff searches for a new framework.
+
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
