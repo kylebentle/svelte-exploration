@@ -12,7 +12,7 @@
 
   <!-- Artboard: mobile -->
   <div id="g-counties-mobile" class="g-artboard" style="width:280px; height:309.33297066425px;" data-aspect-ratio="0.905" data-min-width="280" data-max-width="429">
-    <img id="g-counties-mobile-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.beta.tribapps.com/presidential-vote-swing-counties/ai/ai2html-output/counties-mobile.png"/>
+    <img id="g-counties-mobile-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.chicagotribune.com/presidential-vote-swing-counties/ai/ai2html-output/counties-mobile.png"/>
     <div id="g-ai0-1" class="g-palette g-aiAbs g-aiPointText" style="top:9.3826%;margin-top:-11px;left:25.8662%;width:102px;">
       <p class="g-pstyle0">Milwaukee</p>
     </div>
@@ -53,7 +53,7 @@
 
   <!-- Artboard: phablet -->
   <div id="g-counties-phablet" class="g-artboard" style="width:430px; height:408.691407642051px;" data-aspect-ratio="1.052" data-min-width="430" data-max-width="579">
-    <img id="g-counties-phablet-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.beta.tribapps.com/presidential-vote-swing-counties/ai/ai2html-output/counties-phablet.png"/>
+    <img id="g-counties-phablet-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.chicagotribune.com/presidential-vote-swing-counties/ai/ai2html-output/counties-phablet.png"/>
     <div id="g-ai1-1" class="g-palette g-aiAbs g-aiPointText" style="top:6.4472%;margin-top:-11.3px;left:59.7587%;margin-left:-16px;width:32px;">
       <p class="g-pstyle0">6</p>
     </div>
@@ -136,7 +136,7 @@
 
   <!-- Artboard: desktop -->
   <div id="g-counties-desktop" class="g-artboard" style="width:580px; height:409.165789245255px;" data-aspect-ratio="1.418" data-min-width="580">
-    <img id="g-counties-desktop-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.beta.tribapps.com/presidential-vote-swing-counties/ai/ai2html-output/counties-desktop.png"/>
+    <img id="g-counties-desktop-img" class="g-aiImg g-aiAbs" alt="" src="http://apps.chicagotribune.com/presidential-vote-swing-counties/ai/ai2html-output/counties-desktop.png"/>
     <div id="g-ai2-1" class="g-palette g-aiAbs g-aiPointText" style="top:6.6841%;margin-top:-11.3px;left:52.5115%;margin-left:-16px;width:32px;">
       <p class="g-pstyle0">6</p>
     </div>

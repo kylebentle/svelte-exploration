@@ -2,7 +2,6 @@
 	let headline = 'Largest Democratic vote decreases, 2012-2016';
 	let map_explainer = 'Counties with the largest decreases in votes for Democratic presidential candidate between 2012 and 2016';
 	let data = [{"rank":1,"state":"Michigan","county":"Wayne","obama":"595,846","clinton":"519,444","raw_diff":"-76,402","pct_diff":"-12.82%"},{"rank":2,"state":"Ohio","county":"Cuyahoga","obama":"447,232","clinton":"398,271","raw_diff":"-48,961","pct_diff":"-10.95%"},{"rank":3,"state":"Wisconsin","county":"Milwaukee","obama":"332,438","clinton":"288,797","raw_diff":"-43,641","pct_diff":"-13.13%"},{"rank":4,"state":"Michigan","county":"Macomb","obama":"208,016","clinton":"176,317","raw_diff":"-31,699","pct_diff":"-15.24%"},{"rank":5,"state":"Hawaii","county":"Honolulu","obama":"204,349","clinton":"175,696","raw_diff":"-28,653","pct_diff":"-14.02%"},{"rank":6,"state":"Michigan","county":"Genesee","obama":"128,978","clinton":"102,751","raw_diff":"-26,227","pct_diff":"-20.33%"},{"rank":7,"state":"Ohio","county":"Lucas","obama":"136,616","clinton":"110,833","raw_diff":"-25,783","pct_diff":"-18.87%"},{"rank":8,"state":"Tennessee","county":"Shelby","obama":"232,443","clinton":"208,992","raw_diff":"-23,451","pct_diff":"-10.09%"},{"rank":9,"state":"Ohio","county":"Stark","obama":"89,432","clinton":"68,146","raw_diff":"-21,286","pct_diff":"-23.80%"},{"rank":10,"state":"Ohio","county":"Mahoning","obama":"77,059","clinton":"57,381","raw_diff":"-19,678","pct_diff":"-25.54%"}]
-
   import Ai2html from './Ai2html.svelte';
 </script>
 
